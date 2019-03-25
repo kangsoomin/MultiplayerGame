@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 4034b3cc8714a114ea65a42abc09b339
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CLIFFVEG_0
+    21300002: CLIFFVEG_1
+    21300004: CLIFFVEG_2
+    21300006: CLIFFVEG_3
+    21300008: CLIFFVEG_4
+    21300010: CLIFFVEG_5
+    21300012: CLIFFVEG_6
+    21300014: CLIFFVEG_7
+    21300016: CLIFFVEG_8
+    21300018: CLIFFVEG_9
+    21300020: CLIFFVEG_10
+    21300022: CLIFFVEG_11
+    21300024: CLIFFVEG_12
+    21300026: CLIFFVEG_13
+    21300028: CLIFFVEG_14
+    21300030: CLIFFVEG_15
+    21300032: CLIFFVEG_16
+    21300034: CLIFFVEG_17
+    21300036: CLIFFVEG_18
+    21300038: CLIFFVEG_19
+    21300040: CLIFFVEG_20
+    21300042: CLIFFVEG_21
+    21300044: CLIFFVEG_22
+    21300046: CLIFFVEG_23
+    21300048: CLIFFVEG_24
+    21300050: CLIFFVEG_25
+    21300052: CLIFFVEG_26
+    21300054: CLIFFVEG_27
+    21300056: CLIFFVEG_28
+    21300058: CLIFFVEG_29
+    21300060: CLIFFVEG_30
+    21300062: CLIFFVEG_31
+    21300064: CLIFFVEG_32
+    21300066: CLIFFVEG_33
+    21300068: CLIFFVEG_34
+    21300070: CLIFFVEG_35
+    21300072: CLIFFVEG_36
+    21300074: CLIFFVEG_37
+    21300076: CLIFFVEG_38
+    21300078: CLIFFVEG_39
+    21300080: CLIFFVEG_40
+    21300082: CLIFFVEG_41
+    21300084: CLIFFVEG_42
+    21300086: CLIFFVEG_43
+    21300088: CLIFFVEG_44
+    21300090: CLIFFVEG_45
+    21300092: CLIFFVEG_46
+    21300094: CLIFFVEG_47
+    21300096: CLIFFVEG_48
+    21300098: CLIFFVEG_49
+    21300100: CLIFFVEG_50
+    21300102: CLIFFVEG_51
+    21300104: CLIFFVEG_52
+    21300106: CLIFFVEG_53
+    21300108: CLIFFVEG_54
+    21300110: CLIFFVEG_55
+    21300112: CLIFFVEG_56
+    21300114: CLIFFVEG_57
+    21300116: CLIFFVEG_58
+    21300118: CLIFFVEG_59
+    21300120: CLIFFVEG_60
+    21300122: CLIFFVEG_61
+    21300124: CLIFFVEG_62
+    21300126: CLIFFVEG_63
+    21300128: CLIFFVEG_64
+    21300130: CLIFFVEG_65
+    21300132: CLIFFVEG_66
+    21300134: CLIFFVEG_67
+    21300136: CLIFFVEG_68
+    21300138: CLIFFVEG_69
+    21300140: CLIFFVEG_70
+    21300142: CLIFFVEG_71
+    21300144: CLIFFVEG_72
+    21300146: CLIFFVEG_73
+    21300148: CLIFFVEG_74
+    21300150: CLIFFVEG_75
+    21300152: CLIFFVEG_76
+    21300154: CLIFFVEG_77
+    21300156: CLIFFVEG_78
+    21300158: CLIFFVEG_79
+    21300160: CLIFFVEG_80
+    21300162: CLIFFVEG_81
+    21300164: CLIFFVEG_82
+    21300166: CLIFFVEG_83
+    21300168: CLIFFVEG_84
+    21300170: CLIFFVEG_85
+    21300172: CLIFFVEG_86
+    21300174: CLIFFVEG_87
+    21300176: CLIFFVEG_88
+    21300178: CLIFFVEG_89
+    21300180: CLIFFVEG_90
+    21300182: CLIFFVEG_91
+    21300184: CLIFFVEG_92
+    21300186: CLIFFVEG_93
+    21300188: CLIFFVEG_94
+    21300190: CLIFFVEG_95
+    21300192: CLIFFVEG_96
+    21300194: CLIFFVEG_97
+    21300196: CLIFFVEG_98
+    21300198: CLIFFVEG_99
+    21300200: CLIFFVEG_100
+    21300202: CLIFFVEG_101
+    21300204: CLIFFVEG_102
+    21300206: CLIFFVEG_103
+    21300208: CLIFFVEG_104
+    21300210: CLIFFVEG_105
+    21300212: CLIFFVEG_106
+    21300214: CLIFFVEG_107
+    21300216: CLIFFVEG_108
+    21300218: CLIFFVEG_109
+    21300220: CLIFFVEG_110
+    21300222: CLIFFVEG_111
+    21300224: CLIFFVEG_112
+    21300226: CLIFFVEG_113
+    21300228: CLIFFVEG_114
+    21300230: CLIFFVEG_115
+    21300232: CLIFFVEG_116
+    21300234: CLIFFVEG_117
+    21300236: CLIFFVEG_118
+    21300238: CLIFFVEG_119
+    21300240: CLIFFVEG_120
+    21300242: CLIFFVEG_121
+    21300244: CLIFFVEG_122
+    21300246: CLIFFVEG_123
+    21300248: CLIFFVEG_124
+    21300250: CLIFFVEG_125
+    21300252: CLIFFVEG_126
+    21300254: CLIFFVEG_127
+    21300256: CLIFFVEG_128
+    21300258: CLIFFVEG_129
+    21300260: CLIFFVEG_130
+    21300262: CLIFFVEG_131
+    21300264: CLIFFVEG_132
+    21300266: CLIFFVEG_133
+    21300268: CLIFFVEG_134
+    21300270: CLIFFVEG_135
+    21300272: CLIFFVEG_136
+    21300274: CLIFFVEG_137
+    21300276: CLIFFVEG_138
+    21300278: CLIFFVEG_139
+    21300280: CLIFFVEG_140
+    21300282: CLIFFVEG_141
+    21300284: CLIFFVEG_142
+    21300286: CLIFFVEG_143
+    21300288: CLIFFVEG_144
+    21300290: CLIFFVEG_145
+    21300292: CLIFFVEG_146
+    21300294: CLIFFVEG_147
+    21300296: CLIFFVEG_148
+    21300298: CLIFFVEG_149
+    21300300: CLIFFVEG_150
+    21300302: CLIFFVEG_151
+    21300304: CLIFFVEG_152
+    21300306: CLIFFVEG_153
+    21300308: CLIFFVEG_154
+    21300310: CLIFFVEG_155
+    21300312: CLIFFVEG_156
+    21300314: CLIFFVEG_157
+    21300316: CLIFFVEG_158
+    21300318: CLIFFVEG_159
+    21300320: CLIFFVEG_160
+    21300322: CLIFFVEG_161
+    21300324: CLIFFVEG_162
+    21300326: CLIFFVEG_163
+    21300328: CLIFFVEG_164
+    21300330: CLIFFVEG_165
+    21300332: CLIFFVEG_166
+    21300334: CLIFFVEG_167
+    21300336: CLIFFVEG_168
+    21300338: CLIFFVEG_169
+    21300340: CLIFFVEG_170
+    21300342: CLIFFVEG_171
+    21300344: CLIFFVEG_172
+    21300346: CLIFFVEG_173
+    21300348: CLIFFVEG_174
+    21300350: CLIFFVEG_175
+    21300352: CLIFFVEG_176
+    21300354: CLIFFVEG_177
+    21300356: CLIFFVEG_178
+    21300358: CLIFFVEG_179
+    21300360: CLIFFVEG_180
+    21300362: CLIFFVEG_181
+    21300364: CLIFFVEG_182
+    21300366: CLIFFVEG_183
+    21300368: CLIFFVEG_184
+    21300370: CLIFFVEG_185
+    21300372: CLIFFVEG_186
+    21300374: CLIFFVEG_187
+    21300376: CLIFFVEG_188
+    21300378: CLIFFVEG_189
+    21300380: CLIFFVEG_190
+    21300382: CLIFFVEG_191
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CLIFFVEG_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768b0808a6c9cf044ae5003c95dbd837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b51a5ec1b3b05647a6f007c1eab243d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf0924dc94dc46499a6875aa4eba68a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f51321023bab439862f8b81f61535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2262b01f772f7e4ab408fa21e675353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a02259707dd565468903d9d4cd59946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ced60b1862574f438ea571623c00f61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f58ae79cb7a5de419e2d77a8683ca71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a9ed00d17fcdb4aa88f4be787f7acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3738c05ccb0a149a4bb2c29250999e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a401c16ade15247abadfd9d598ec8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b6fac2a03a954d8438eb74e5dd0cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8633731590b963f4ebaaeb2465095741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f01e2fc5bb7b4a8810b9889e3a471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a5d80fe4b6064f9cb729746b9a753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0781e532697e4ea30b4508a5f4076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28dec28d100a234fab407bfc0fd211a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cbb48dc6953c840822c7cbe99734b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989f0a5df6b23c46adb2b2ae5436fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc87ad3246b0042925c0c91ab0ca40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ab30ecddf50540b105741df2964db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7ecb604291869429e29041ac21461c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3865cf01be9ee47afd0c644228a1e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d5e981b72f7054b8a6255fc9e6219b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17eeb2b5ed18dd49bd5f4891f8cd976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_114
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b596eea45a848e45b5db37020aba935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c6a75a07b0ca47a4a2fc204cc3fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_118
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f16a93ce5f129e4d8e5362111fe1b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4703c1ab890b1504186c7c2e9f9547a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_121
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4eff8179b944a47866c306ecb0a6d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_129
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da153054816f2e94598d22392acf3cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238608a15e49fe64597394b75210c83f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1ae6808cdd7a48b19cc10fe40c163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83554f4b6bf206c4c980b729400454bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28756dbbc0f1194690938cadf1a3add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_137
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9919059f09c3d4a875f1aa64d62881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_145
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc71b3a12f5cb489240590c407d46e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27f6e9f5c825f45859eb9034b12d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68d4084c704c584d816a822ca961618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_150
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e3976a93837740a1f9161aff26483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f69427a326dfc429fe9accc183d56d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLIFFVEG_153
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658ec87ef281a8408890303c171af26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b23d593bcc374044baaa9dc3caddccb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
